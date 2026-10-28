@@ -1,4 +1,4 @@
-# Fora do ar [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Diretório Anti-Bolsonaros [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Uma lista curada de jogos, aplicações, sátiras e conteúdo crítico sobre a família Bolsonaro e o bolsonarismo na política brasileira.
 
