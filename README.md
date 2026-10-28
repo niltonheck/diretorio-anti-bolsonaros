@@ -30,9 +30,7 @@ Contribuições são bem-vindas! Veja [como contribuir](#como-contribuir).
 
 *Páginas e experiências digitais de humor e crítica política.*
 
-- [Flávio já foi preso?](https://flaviojafoipreso.com.br/)
-
-<!-- Flávio já foi preso?: descrição pendente de revisão do conteúdo. -->
+- [Flávio já foi preso?](https://flaviojafoipreso.com.br/) - Site de sátira política centrado na pergunta que lhe dá nome: Flávio Bolsonaro já foi preso? [Código-fonte](https://github.com/niltonheck/flaviojafoipreso.com.br)
 
 ## Dados e memória política
 
