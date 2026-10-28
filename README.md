@@ -1,1 +1,1 @@
-![Pilha de televisores antigos](assets/tvs.png)
+![Pilha de televisores antigos](misc/tvs.png)
